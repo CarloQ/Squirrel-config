@@ -1,0 +1,2 @@
+patch:
+  abc_segmentor/extra_tags: {}  # 禁止直接拼音輸入，但仍可在敲 ` 之後輸入拼音
