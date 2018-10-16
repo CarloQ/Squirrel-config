@@ -3,12 +3,12 @@ patch:
   style/horizontal: true      # 候選橫排
   style/inline_preedit: true  # 內嵌編碼（僅支持TSF）
 
-  style/layout/border_width: 1
-  style/layout/margin_y: 8
-  style/layout/spacing: 24
-  style/layout/candidate_spacing: 20
-  style/layout/hilite_padding: 12
-  style/layout/round_corner: 0
+  style/layout/border_width: 1        # 邊框寬度
+  style/layout/margin_y: 8            # 上下邊距
+  style/layout/spacing: 24            # 非內嵌編碼下編碼行與候選行間隔
+  style/layout/candidate_spacing: 20  # 候選項距離
+  style/layout/hilite_padding: 12     # 高亮範围
+  style/layout/round_corner: 0        # 圓角
 
   preset_color_schemes/win10:
     name: "Windows 10"
