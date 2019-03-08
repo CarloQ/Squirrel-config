@@ -3,11 +3,11 @@ patch:
   style/horizontal: true      # 候選橫排
   style/inline_preedit: true  # 內嵌編碼（僅支持TSF）
 
-  style/layout/border_width: 1        # 邊框寬度
-  style/layout/margin_y: 8            # 上下邊距
-  style/layout/spacing: 24            # 非內嵌編碼下編碼行與候選行間隔
-  style/layout/candidate_spacing: 20  # 候選項距離
-  style/layout/hilite_padding: 12     # 高亮範围
+  style/layout/border_width: 2        # 邊框寬度
+  style/layout/margin_y: 16           # 上下邊距
+  style/layout/spacing: 32            # 非內嵌編碼下編碼行與候選行間隔
+  style/layout/candidate_spacing: 32  # 候選項距離
+  style/layout/hilite_padding: 16     # 高亮範围
   style/layout/round_corner: 0        # 圓角
 
   preset_color_schemes/win10:
@@ -15,8 +15,8 @@ patch:
     author: "Zijung Chueh <i@zijung.me>"
     text_color: 0x000000                    # 文字顏色
     back_color: 0xFFFFFF                    # 背景色
-    border_color: 0x000000                  # 邊框顏色
+    border_color: 0xD77800                  # 邊框顏色
     hilited_text_color: 0xFFFFFF            # 高亮文字顏色
-    hilited_back_color: 0xCE7539            # 高亮背景色
+    hilited_back_color: 0xD77800            # 高亮背景色
     hilited_candidate_text_color: 0xFFFFFF  # 高亮候選項文字顏色
-    hilited_candidate_back_color: 0xCE7539  # 高亮候選項背景色
+    hilited_candidate_back_color: 0xD77800  # 高亮候選項背景色
