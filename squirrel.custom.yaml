@@ -4,7 +4,7 @@ patch:
 
   preset_color_schemes/macos:                       # 增加配色 macos
     name: "macOS"
-    author: "Zijung Chueh <i@zijung.me>"
+    author: "Zhihsian Que <i@zhihsian.me>"
     corner_radius: 3                                # 圓角
     border_height: 1                                # 上下邊距
     border_width: 10                                # 左右邊距

@@ -12,7 +12,7 @@ patch:
 
   preset_color_schemes/win10:
     name: "Windows 10"
-    author: "Zijung Chueh <i@zijung.me>"
+    author: "Zhihsian Que <i@zhihsian.me>"
     text_color: 0x000000                    # 文字顏色
     back_color: 0xFFFFFF                    # 背景色
     border_color: 0xD77800                  # 邊框顏色
